@@ -1,1 +1,2 @@
 # Aritraproject
+print("Hello World")
